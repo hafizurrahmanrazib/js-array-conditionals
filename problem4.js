@@ -1,8 +1,8 @@
 // Isosceles => two sides are equal
-var x = 9;
-var y = 8;
-var z = 7;
-if (x == y || x == z) {
+var side1 = 9;
+var side2 = 8;
+var side3 = 9;
+if (side1 == side2 || side1 == side3 || side2 == side3) {
     console.log('Triangle is Isosceles');
 }
 else {

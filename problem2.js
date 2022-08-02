@@ -1,22 +1,22 @@
-// All Person Score
-// var myScore = 85;
-// var tomScore = 66;
-// var janeScore = 95;
-// var peterScore = 56;
-// var johnScore = 40;
-var score = 56;
+// All Person Marks
+// var myMarks = 85;
+// var tomMarks = 66;
+// var janeMarks = 95;
+// var peterMarks = 56;
+// var johnMarks = 40;
+var marks = 56;
 
 
-if (score >= 80) {
+if (marks >= 80) {
     console.log('A Grade');
 }
-else if (score >= 60) {
+else if (marks >= 60) {
     console.log('B Grade');
 }
-else if (score >= 50) {
+else if (marks >= 50) {
     console.log('C Grade');
 }
-else if (score >= 40) {
+else if (marks >= 40) {
     console.log('D Grade');
 }
 else {
